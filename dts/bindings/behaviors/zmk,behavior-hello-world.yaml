@@ -1,0 +1,8 @@
+# Copyright (c) XXXX The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+description: Hello World Behavior
+
+compatible: "zmk,behavior-hello-world"
+
+include: zero_param.yaml
